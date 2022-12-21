@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Document</title>
+		<style>
+			h3 {
+				color: red;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="tbl">
+			<p style="font-size: 20px; font-weight: bold">Успеваемость</p>
+			<table>
+				<thead>
+					<tr>
+						<th></th>
+						<th>2017</th>
+						<th>2018</th>
+						<th>2019</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>ИТех</td>
+						<td>93</td>
+						<td>97</td>
+						<td>98</td>
+					</tr>
+					<tr>
+						<td>КСх</td>
+						<td>91</td>
+						<td>98</td>
+						<td>97</td>
+					</tr>
+					<tr>
+						<td>СПО</td>
+						<td>96</td>
+						<td>94</td>
+						<td>97</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div>
+			<h3>Работа с @media</h3>
+			<img src="img.jpg" alt="electricfood" />
+		</div>
+	</body>
+</html>
