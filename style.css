@@ -29,4 +29,5 @@ table {
 .tbl{
     position: relative;
     left: 35%;
+    width: 400px;
 }
