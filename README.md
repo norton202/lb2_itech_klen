@@ -3,3 +3,4 @@
 ![1](https://user-images.githubusercontent.com/120607789/208806320-6ade8414-96b3-4a17-a94f-42dce3ce5de7.png)
 
 ![лб2_итех](https://user-images.githubusercontent.com/120607789/210162422-94ca3e05-1966-4d34-9bce-6cfc5c806706.jpg)
+![image](https://user-images.githubusercontent.com/120607789/210268812-3bb73b06-2e15-4832-bab2-3b4d8932b9ed.png)
