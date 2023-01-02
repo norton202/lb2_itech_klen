@@ -1,0 +1,32 @@
+@media (max-width: 1200px) {
+    img{
+        width: 600px;
+        float: right;
+    }
+}
+@media (max-width: 800px) {
+    img{
+        float: left;
+        width: 400px;
+    }
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #FFFFF0;
+}
+tbody tr:nth-child(even) {
+    background-color: #FFF8DC;
+} 
+thead tr {
+    color: white;
+}
+table {
+    background-color: #A52A2A;
+    border-collapse: collapse;
+    text-align: center;
+    width: 600px;
+}
+.tbl{
+    position: relative;
+    left: 35%;
+}
