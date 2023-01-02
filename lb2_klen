@@ -15,7 +15,7 @@
 	<body>
 		<div class="tbl">
 			<p style="font-size: 20px; font-weight: bold">Успеваемость</p>
-			<table style="margin-left: 50%;">
+			<table style="margin-left: auto;">
 				<thead>
 					<tr>
 						<th></th>
